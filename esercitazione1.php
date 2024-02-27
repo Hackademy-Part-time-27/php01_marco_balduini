@@ -1,6 +1,6 @@
 <?php 
 
-TRACCIA 1
+//TRACCIA 1
 
 $nome = 'Marco'; //string
 $anni = 23; //number
@@ -17,7 +17,7 @@ const ANNI = 23;
 const ALTEZZA = 1.75;
 const IS_STUDENT = true;
 
-TRACCIA 2
+//TRACCIA 2
 
 $text1 = "Marco";
 $text2 = "hai";
@@ -30,7 +30,7 @@ $text8 = 'tutto';
 
 echo $text1 . " " . $text2 . " " . $text3 . $text4 . " " . $text5 . " " . $text6 . " " . $text7 . " " . $text8;
 
-TRACCIA 3
+//TRACCIA 3
 
 $words1 = [
     'una',
