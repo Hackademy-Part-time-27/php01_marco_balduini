@@ -24,7 +24,7 @@ $text2 = "hai";
 $text3 = "sete";
 $text4 = "?";
 $text5 = "Perchè";
-$text6 = 'hai';
+$text6 = 'hai'; //! potevi riassegnare $text6 = $text2 ;-)
 $text7 = 'bevuto';
 $text8 = 'tutto';
 
